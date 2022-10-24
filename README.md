@@ -1,4 +1,4 @@
-# Horiseon Social Solution Services Inc: page accessibilty update
+# Horiseon Social Solution Services Inc: page accessibility update
 
 ## Description
 
