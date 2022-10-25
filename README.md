@@ -21,10 +21,10 @@ The main objectives of this initiave are:
 
 This project was completed in digital collaboration with:
 
-- [Victor Biscio] <github profile to be added>
-- [Sam Brooke] <github profile to be added>
-- [Chris-Eric Dagbo] <github profile to be added>
-- [Adama Sall] <github profile to be added>
+- Victor Biscio
+- Sam Brooke
+- Chris-Eric Dagbo
+- Adama Sall
 
 ## License
 MIT 
