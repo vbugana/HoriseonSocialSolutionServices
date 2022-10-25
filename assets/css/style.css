@@ -1,9 +1,11 @@
 /*STYLES APPLICABLE THROUGHOUT THE WEBPAGE*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
 /*Body*/
 body {
     padding-top: 15px;
@@ -37,7 +39,6 @@ a {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
 
 /* Nav */
 
