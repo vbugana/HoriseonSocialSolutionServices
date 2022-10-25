@@ -9,10 +9,10 @@ The main objectives of this initiave are:
 
 ## Changes Applied
 
-HTML Semantic Structure:  all the generic container elements and class names have been replaced  with appropriate semantic elements.
-Page Headings: heading elements follow now a logical and sequential order.
-Improved Accessibility: alt attributes addeed to <img> tags to improve the experience so users when visiting the page can use assisitive technology if needed.
-Page Title: Added keyword driven page title to <title> element to improve SEO and help users with disabilities quickly understand the page's content and purpose.
+* HTML Semantic Structure:  all the generic container elements and class names have been replaced  with appropriate semantic elements.
+* Page Headings: heading elements follow now a logical and sequential order.
+* Improved Accessibility: alt attributes addeed to <img> tags to improve the experience so users when visiting the page can use assisitive technology if needed.
+* Page Title: Added keyword driven page title to <title> element to improve SEO and help users with disabilities quickly understand the page's content and purpose.
 
 
 ## Credits
