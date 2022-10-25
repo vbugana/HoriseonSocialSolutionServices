@@ -2,7 +2,7 @@
 
 ## Description
 
-The overall appereance of the page has not been changed, however the structure underneath the page is more articulatae as each section plays clearly a role in the document as a whole.
+The overall appereance of the page has not been changed, however the structure underneath the page is more articulate as each section plays clearly a role in the document as a whole.
 
 The main objectives of this initiave are:
 
